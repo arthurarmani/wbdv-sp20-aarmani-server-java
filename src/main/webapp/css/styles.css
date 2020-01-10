@@ -1,0 +1,24 @@
+h1 {
+    color:white;
+    background-color:blue;
+}
+
+h2 {
+    background-color: yellow;
+}
+
+#wbdv-module-list {
+    background-color: red;
+}
+
+.wbdv-bold {
+    font-weight: bolder;
+}
+
+.wbdv-module {
+    background-color: lightgray;
+}
+
+.wbdv-module.wbdv-selected {
+    background-color: darkgray;
+}
